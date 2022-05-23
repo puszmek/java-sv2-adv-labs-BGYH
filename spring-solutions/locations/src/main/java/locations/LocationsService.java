@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-//@Service
+@Service
 public class LocationsService {
 
     private List<Location> locations = Arrays.asList(
